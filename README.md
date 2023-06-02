@@ -4,6 +4,10 @@
 <h1 align="center">Hi 👋, I'm CodeLock</h1>
 <h3 align="center">An interested student about technology</h3>
 
+**Right now i have knowledge about some different kinds of libraries and languages**
+
+**My hobbies are coding and learning about 3D Modeling.**
+
 - 🔭 I’m currently working on **software programs**
 
 - 🌱 I’m currently learning **SQL / PHP**
