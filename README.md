@@ -1,34 +1,88 @@
-![banner](https://github.com/C0d3L0ck/C0d3L0ck/assets/105467967/03e666a6-febc-4d7f-accb-5a176d424960)
+![banner](<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/77f11cde-ac12-459b-99a6-0d1f734f15c8" />
+)
 
+<h1 align="center">Hi 👋, I'm Elías Gallardo (CodeLock)</h1>
+<h3 align="center">Full Stack Developer passionate about building modern digital solutions</h3>
 
-<h1 align="center">Hi 👋, I'm CodeLock</h1>
-<h3 align="center">An interested student about technology</h3>
-
-**Right now i have knowledge about some different kinds of libraries and languages**
-
-**My hobbies are coding and learning about 3D Modeling.**
-
-- 🔭 I’m currently working on **software programs**
-
-- 🌱 I’m currently learning **SQL / PHP**
-
-- 🤝 I’m looking for help with **labor field**
-
-- 📫 How to reach me **eliasjbarraez@gmail.com**
-
-- 📄 Know about my experiences [C/C#/HTML/CSS/PYTHON/JS/Blender/3DSMAX](C/C#/HTML/CSS/PYTHON/JS/Blender/3DSMAX)
-
-- ⚡ Fun fact **I love cats**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/codelock/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elias gallardo barraez" height="30" width="40" /></a>
-<a href="https://www.facebook.com/EliWhoIAm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elias gallardo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@mikeslovak4477/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mikeslovak" height="30" width="40" /></a>
-<a href="https://discord.gg/Morocho#6666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Morocho#6666" height="30" width="40" /></a>
+<p align="center">
+Focused on web development, business systems, and scalable applications with clean design and solid architecture.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img 
+---
 
+## 🚀 About Me
 
+I am a software developer focused on building web applications, management systems, and digital solutions for businesses.  
+My main stack includes **.NET, Angular, Astro, SQL, JavaScript, HTML, and CSS**, allowing me to create products that are functional, scalable, and user-friendly.
+
+I have a strong interest in technology, problem-solving, and software architecture. Beyond programming, I also enjoy **3D modeling**, which helps me express creativity from a different perspective.
+
+- 🔭 Currently working on **software solutions and business systems**
+- 🌱 Currently improving my skills in **full stack development, software architecture, and modern frontend technologies**
+- 🤝 Open to **job opportunities, collaborations, and professional growth**
+- 📫 Reach me at **eliasjbarraez@gmail.com**
+- ⚡ Fun fact: **I love cats and creative tech projects**
+
+---
+
+## 💼 Professional Profile
+
+I enjoy building solutions that provide real value, especially in areas such as:
+
+- Administrative panels
+- Business systems
+- MVP development
+- Process automation tools
+- Modern web platforms
+
+My approach combines business logic, clean code, scalable structure, and interfaces designed to improve the user experience.
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+  </a>
+  <a href="https://astro.build/" target="_blank" rel="noreferrer">
+    <img src="https://astro.build/assets/press/astro-icon-light.svg" alt="Astro" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/codelock/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/EliWhoIAm" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/@mikeslovak4477/videos" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
+  </a>
+</p>
