@@ -1,5 +1,4 @@
-![banner](<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/77f11cde-ac12-459b-99a6-0d1f734f15c8" />
-)
+![Banner](https://media.licdn.com/dms/image/v2/D4E16AQFBlj8rYyFlvQ/profile-displaybackgroundimage-shrink_350_1400/B4EZv3w.gKJgAY-/0/1769388370359?e=1776902400&v=beta&t=nxAWt1_Na5KU6MZkUqGeZBbtovzeHMIQKkcz5JKYR2s)
 
 <h1 align="center">Hi 👋, I'm Elías Gallardo (CodeLock)</h1>
 <h3 align="center">Full Stack Developer passionate about building modern digital solutions</h3>
