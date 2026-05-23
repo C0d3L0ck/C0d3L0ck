@@ -1,5 +1,4 @@
-![banner](<img width="1400" height="350" alt="image" src="https://github.com/user-attachments/assets/77f11cde-ac12-459b-99a6-0d1f734f15c8" />
-)
+![banner](https://github.com/C0d3L0ck/C0d3L0ck/assets/105467967/03e666a6-febc-4d7f-accb-5a176d424960)
 <h1 align="center">Hi 👋, I'm Elías Gallardo (CodeLock)</h1>
 <h3 align="center">Full Stack Developer passionate about building modern digital solutions</h3>
 
